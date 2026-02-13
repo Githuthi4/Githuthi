@@ -1,5 +1,8 @@
 Hey there...I'm Marie 
 
+![Python](https://img.shields.io/badge/Python-3.10-blue?style=flat-square&logo=python&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-Profile-black?style=flat-square&logo=github&logoColor=white)
+
 
 ## About Me
 - I'm currently learning AI and exploring how technology can solve real-world problems.
