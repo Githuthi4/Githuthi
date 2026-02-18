@@ -3,8 +3,11 @@
 
 ### Text Formatting
 **Hello there! I am using markdown**
+
 *Hello there! I am using markdown*
+
 ~~Hello there! I am using markdown~~
+
 `Hello there! I am using markdown`
 
 ### Links
