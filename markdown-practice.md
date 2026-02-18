@@ -15,7 +15,6 @@
 #### Unordered List
 - Python
 - Machine Learning
-  - Nested item
 - SQL
 #### ordered list
 1. Use `git add` to stage your changes.
@@ -48,6 +47,6 @@ I am an aspiring **Data Scientist**. My current goal is to master `Python` so I 
 You can see my progress on my [GitHub Profile](https://github.com/Githuthi4).
 
 **My Top Priorities:**
-* Completing my semester and passing my exams
-* Solving real world problems using AI
-* Practicing coding daily
+1. Completing my semester and passing my exams
+2. Solving real world problems using AI
+3. Practicing coding daily
